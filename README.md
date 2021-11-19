@@ -1,8 +1,8 @@
 # PWA Budget Tracker
 
-****
+**This application is a budget tracker that is built using MongoDB, Node.JS, and Express. It is a Progressive Web Application which means it is setup to be installed for offline usage.**
 
-![]()
+![Gif](./images/budgetTracker.gif)
 
 
 ## Built With
@@ -25,7 +25,7 @@ Steps to install application:
 5. Server will be running locally on your machine
 6. Alternative is to just visit the Heroku Deployed link to see the application.
 
-* [Heroku Deployed](https://agile-brushlands-92284.herokuapp.com/)
+* [Heroku Deployed Link](https://agile-brushlands-92284.herokuapp.com/)
 
 ## Author
 
